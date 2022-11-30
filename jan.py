@@ -1,1 +1,1 @@
-import qsr
+import Qfuck
